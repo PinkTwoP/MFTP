@@ -3,6 +3,7 @@
 Description
 ---
 The maximum flow based target path-cover (MFTP) algorithm aims to find the minimum number of driver nodes to structurally control the target subset from a complex network.\
+The detailed information of MFTP would be available in the main paper.\
 \
 Here is a brief introduction to the proposed algorithm:\
 \
