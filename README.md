@@ -38,7 +38,7 @@ The alrotihm mainly consists of seven steps which can be divided into three part
 >>**Step 7**: Repeat the process in **Step  6**  until <a href="http://www.codecogs.com/eqnedit.php?latex=E^{(F)}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E^{(F)}" title="E^{(F)}" /></a> becomes an empty set, and all the simple paths and circles in <a href="http://www.codecogs.com/eqnedit.php?latex=P" target="_blank"><img src="http://latex.codecogs.com/gif.latex?P" title="P" /></a> and <a href="http://www.codecogs.com/eqnedit.php?latex=\mathcal{C}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\mathcal{C}" title="\mathcal{C}" /></a> are  finally obtained.
 
 `Figure 1`
-<div align=center><img width="500" height="362" src="/Figure/Figure-1.png" alt="Figure 1"/></div>
+<div align=center><img width="610" height="550" src="/Figure/Figure-1.png" alt="Figure 1"/></div>
 
 Files
 ---
@@ -75,10 +75,10 @@ Here is a step by step explanation:
 >**6.** Thus the control matrix <a href="http://www.codecogs.com/eqnedit.php?latex=B" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B" title="B" /></a> is <a href="http://www.codecogs.com/eqnedit.php?latex=B=[0~&space;1~&space;0~&space;0~&space;0~&space;0~&space;0~&space;0~&space;1]^T" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B=[0~&space;1~&space;0~&space;0~&space;0~&space;0~&space;0~&space;0~&space;1]^T" title="B=[0~ 1~ 0~ 0~ 0~ 0~ 0~ 0~ 1]^T" /></a>, i.e., applying one driver source onto node 9 and node 2.
 
 `Figure 2`
-<div align=center><img width="500" height="362" src="/Figure/Figure-2.png" alt="Figure 2"/></div>
+<div align=center><img width="80" height="76" src="/Figure/Figure-2.png" alt="Figure 2"/></div>
 
 `Figure 3`
-<div align=center><img width="500" height="362" src="/Figure/Figure-3.png" alt="Figure 3"/></div>
+<div align=center><img width="270" height="150" src="/Figure/Figure-3.png" alt="Figure 3"/></div>
 
 Reference
 ---
