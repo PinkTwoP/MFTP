@@ -75,10 +75,10 @@ Here is a step by step explanation:
 >**6.** Thus the control matrix <a href="http://www.codecogs.com/eqnedit.php?latex=B" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B" title="B" /></a> is <a href="http://www.codecogs.com/eqnedit.php?latex=B=[0~&space;1~&space;0~&space;0~&space;0~&space;0~&space;0~&space;0~&space;1]^T" target="_blank"><img src="http://latex.codecogs.com/gif.latex?B=[0~&space;1~&space;0~&space;0~&space;0~&space;0~&space;0~&space;0~&space;1]^T" title="B=[0~ 1~ 0~ 0~ 0~ 0~ 0~ 0~ 1]^T" /></a>, i.e., applying one driver source onto node 9 and node 2.
 
 `Figure 2`
-<div align=center><img width="80" height="76" src="/Figure/Figure-2.png" alt="Figure 2"/></div>
+<div align=center><img width="240" height="228" src="/Figure/Figure-2.png" alt="Figure 2"/></div>
 
 `Figure 3`
-<div align=center><img width="270" height="150" src="/Figure/Figure-3.png" alt="Figure 3"/></div>
+<div align=center><img width="540" height="300" src="/Figure/Figure-3.png" alt="Figure 3"/></div>
 
 Reference
 ---
