@@ -3,8 +3,8 @@
 Description
 ---
 The maximum flow based target path-cover (MFTP) algorithm aims to find the minimum number of driver nodes to structurally control the target subset from a complex network.\
-The detailed information of MFTP would be available in the main paper.\
 \
+The detailed information of MFTP would be available in the main paper.
 Here is a brief introduction to the proposed algorithm:\
 \
 Given a subset extracted from a directed complex network, for the purpose of structural controllability, we endeavor to find the minimum number of driver nodes, i.e., given a subset <a href="http://www.codecogs.com/eqnedit.php?latex=S" target="_blank"><img src="http://latex.codecogs.com/gif.latex?S" title="S" /></a> from a digraph <a href="http://www.codecogs.com/eqnedit.php?latex=D(V,E)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?D(V,E)" title="D(V,E)" /></a> corresponding to a linear system <a href="http://www.codecogs.com/eqnedit.php?latex=(A,B)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(A,B)" title="(A,B)" /></a>, MFTP finds the minimum <a href="http://www.codecogs.com/eqnedit.php?latex=n_D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n_D" title="n_D" /></a> for structural controllability, where <a href="http://www.codecogs.com/eqnedit.php?latex=V" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V" title="V" /></a> is the vertex set, <a href="http://www.codecogs.com/eqnedit.php?latex=E" target="_blank"><img src="http://latex.codecogs.com/gif.latex?E" title="E" /></a> is the edge set and <a href="http://www.codecogs.com/eqnedit.php?latex=n_D" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n_D" title="n_D" /></a> is minimum number of driver nodes.\
