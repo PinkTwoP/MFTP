@@ -45,9 +45,8 @@ Files
 ---
 * ./Code/NetworkData/ER_Network_1000node_3meandegree.mat -----> a 1000-node ER network data with 3 mean degree (mat-data)
 * ./Code/main.m -----> the main script code of MFTP algorithm (matlab code)
-* ./Code/C++/max_cost_flow/max_cost_flow_exe/FuncProduceSubset.m	-----> the function code to generate subsets(matlab code)
-* ./Code/C++/max_cost_flow/max_cost_flow_exe/max_cost_flow.exe -----> the C++ executable file to do MFTP algorithm (C++ code)
-* ./Code/C++/max_cost_flow/max_cost_flow -----> the C++ code of MFTP algorithm (C++ code)
+* ./Code/MFTP/FuncProduceSubset.m	-----> the function code to generate subsets(matlab code)
+* ./Code/MFTP/multi_layer.exe -----> the C++ executable file to do MFTP algorithm (C++ code)
 * ./Figure/Figure-1.png -----> figure 1 (figure)
 * ./Figure/Figure-2.png -----> figure 2 (figure)
 * ./Figure/Figure-3.png -----> figure 2 (figure)
