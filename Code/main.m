@@ -1,6 +1,6 @@
 clear all
 tic
-batchSize = 1;                        % one batch means For each batch, 
+batchSize = 100;                        % one batch means For each batch, 
                                         % we randomly chose $|S|$ nodes 
                                         % from the whole network under 
                                         % uniform distribution gradually 
@@ -32,7 +32,7 @@ disp('network data loaded.')
 A = double(A);                           % 'A' denoted as the net data
 
 
-scale = 100;                              % the interval between subsets
+scale = 10;                              % the interval between subsets
                                          % i.e. |S|=scale,2*scale,...,1000
 NumScale = floor(max(max(A))/scale);     % Number of subsets in one batch
 
