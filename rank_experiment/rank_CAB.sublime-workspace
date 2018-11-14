@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"temp_u\tstatement"
+			],
+			[
+				"tra",
+				"transpose\tfunction"
+			],
+			[
+				"control",
+				"controllability"
+			],
+			[
+				"min",
+				"min_singular_value\tstatement"
+			],
+			[
+				"bulid",
+				"matrxBuildinProd"
+			],
+			[
+				"war",
+				"Warning\tclass"
+			],
+			[
+				"f",
+				"filterwarnings\tfunction"
+			],
+			[
+				"RunTi",
+				"RuntimeWarning\tclass"
+			],
+			[
+				"matr",
+				"matrxBuildinProd\tfunction"
+			],
+			[
+				"mat",
+				"matA\tparam"
+			],
+			[
+				"dim",
+				"dim11\tstatement"
+			],
+			[
+				"ma",
+				"matrixComprod\tfunction"
+			],
+			[
+				"ext",
+				"external_sources_number\tstatement"
+			],
+			[
+				"exter",
+				"external_sources_number\tstatement"
+			],
+			[
+				"contr",
+				"control_circles\tstatement"
+			],
+			[
+				"SUBSET",
+				"SUBSETSIZE\tparam"
+			],
+			[
+				"OUT",
+				"OUTPUTFILENAME\tstatement"
+			],
+			[
+				"exer",
+				"external_sources_number\tstatement"
+			],
+			[
+				"matrix_",
+				"matrix_rank\tfunction"
+			],
+			[
+				"SUB",
+				"SUBSETNAME\tparam"
+			],
+			[
+				"SUBSE",
+				"SUBSETPATH\tstatement"
+			],
+			[
+				"network",
+				"network_size\tparam"
+			],
+			[
+				"readlin",
+				"readlines\tfunction"
+			],
+			[
+				"subset",
+				"SUBSETPATH\tparam"
+			],
+			[
+				"netdata",
+				"netdata2net\tfunction"
+			],
+			[
+				"networ",
+				"network_size\tparam"
+			],
+			[
+				"netw",
+				"NETWORKNAME\tparam"
+			],
+			[
+				"Ne",
+				"NETWORKNAME\tstatement"
+			],
+			[
+				"ex",
+				"external_sources_number\tstatement"
+			],
+			[
+				"net",
+				"netdata\tparam"
+			],
+			[
+				"netda",
+				"netdata2net\tfunction"
+			],
+			[
+				"contro",
+				"control_circles_number\tstatement"
+			],
+			[
+				"O",
+				"OUTPUTFILENAME\tstatement"
+			],
+			[
+				"OU",
+				"OUTPUTPATH\tstatement"
+			],
+			[
+				"cont",
+				"control_circles_number\tstatement"
+			],
+			[
+				"NE",
+				"NETWORKNAME\tstatement"
+			],
+			[
+				"int",
+				"int32\tmodule"
+			],
+			[
+				"con",
+				"control_circles\tstatement"
+			],
+			[
+				"isd",
+				"isdigit\tfunction"
+			],
+			[
+				"FILEN",
+				"FILENAME\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"python3 -W all read_external_nodes.py",
+			"python3 -W error read_external_nodes.py",
+			"python3 -w error read_external_nodes.py",
+			"python -w error read_external_nodes.py",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ownCloud/paperwork/subset graph/20181008/response-tp/response/response-tp-targetcontrol1008.tex",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/D/ownCloud/paperwork/subset graph/20181113/MFTP-master/Code/MFTP/rank_experiment/rank_CAB.py",
+		"/D/github/MFTP/README.md",
+		"/D/ownCloud/paperwork/subset graph/20181113/MFTP-master/Code/MFTP/test.py",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Packages/Anaconda3.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "rank_CAB.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

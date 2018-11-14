@@ -179,7 +179,7 @@ if __name__=='__main__':
 		print('the size of subset is ',subset_size)
 		print('the rank of controllability matrix via np.dot is ',rankCM)
 		print('the rank of controllability matrix via matrxBuildinProd is ',rankMM)
-		print('the minimum sigurlar value of controllability matrix is ',min_singular_value)
+		print('the minimum singurlar value of controllability matrix is ',min_singular_value)
 
 
 
