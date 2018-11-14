@@ -47,6 +47,10 @@ Files
 * ./Code/main.m -----> the main script code of MFTP algorithm (matlab code)
 * ./Code/MFTP/FuncProduceSubset.m	-----> the function code to generate subsets(matlab code)
 * ./Code/MFTP/multi_layer.exe -----> the C++ executable file to do MFTP algorithm (C++ code)
+* ./rank_experiment/rank_CAB.py  -----> the python script to calculate the rank and sigular values of the controllability matrix
+* ./rank_experiment/Input203(X).txt -----> the node list of target control subset with |S| = X from 20-node network with 3 meandegree
+* ./rank_experiment/Output203(X).txt -----> the MFTP result with |S| = X from 20-node network with 3 meandegree
+* ./rank_experiment/Rand_Network_20node_3meandegree.mat -----> the edge list of network with 20 nodes and 3 meandegree
 * ./Figure/Figure-1.png -----> figure 1 (figure)
 * ./Figure/Figure-2.png -----> figure 2 (figure)
 * ./Figure/Figure-3.png -----> figure 2 (figure)
